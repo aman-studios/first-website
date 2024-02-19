@@ -1,0 +1,177 @@
+@media (max-width :992px) {
+    * {
+        scroll-padding: 75px;
+    }
+
+    .lap {
+        display: none;
+    }
+
+    .navbar {
+        height: 75px;
+    }
+
+    button {
+        padding: 10px 20px;
+    }
+
+    .skill-main {
+        height: 820px;
+        align-items: center;
+    }
+
+    .skill-box1 {
+        width: 550px;
+        margin: 0 30px;
+    }
+
+    .skill-box2 {
+        width: 550px;
+        margin: 0 30px;
+    }
+
+    .con-box1 {
+        margin-inline: 40px;
+    }
+}
+
+@media (max-width :920px) {
+    .about-main {
+        height: 1200px;
+    }
+
+    .about-box1 {
+        margin-top: 50px;
+        width: 600px;
+        margin-inline: 30px;
+    }
+
+    .about-box2 {
+        margin-bottom: 50px;
+        width: 400px;
+        margin-inline: 30px;
+    }
+
+
+    .child-edu-container {
+        height: auto;
+        width: 550px;
+        margin: 35px;
+    }
+
+    .edu-container {
+        height: auto;
+
+    }
+
+    .timeline {
+        width: 97%;
+    }
+
+    .edu-line {
+        width: 97%;
+    }
+
+    .pf-grid {
+        grid-template-areas:
+            'pf-box1 pf-box2'
+            'pf-box3 pf-box4'
+        ;
+    }
+
+    .tab {
+        display: none;
+    }
+}
+
+@media (max-width :800px) {
+    .f-browse {
+        display: none;
+    }
+
+    .footer1 {
+        height: 290px;
+    }
+}
+
+@media (max-width :700px) {
+    * {
+        scroll-padding: 70px;
+    }
+
+    .phone {
+        display: none;
+    }
+
+    .nav-ul {
+        display: none;
+    }
+
+    .menu-icon {
+        display: block;
+    }
+
+    .navbar {
+        height: 70px;
+    }
+
+    button {
+        padding: 8px 15px;
+    }
+
+    .pro-grid {
+        grid-template-areas:
+            'pro-box1 pro-box2'
+            'pro-box3 pro-box4'
+        ;
+    }
+}
+
+@media (max-width:600px) {
+    .about-main {
+        height: 1000px;
+    }
+
+    .about-box1 {
+        width: 400px;
+    }
+
+    .about-box2 {
+        width: 400px;
+        height: 350px;
+    }
+
+    .del {
+        display: none;
+    }
+
+    .pf-container {
+        height: 770px;
+    }
+
+    .pf-grid {
+        grid-template-areas:
+            'pf-box1'
+            'pf-box2'
+            'pf-box3'
+        ;
+        height: 630px;
+    }
+
+    .footer2 {
+        justify-content: center;
+    }
+
+    .footer1 {
+        height: 234px;
+    }
+
+    .con-box1 {
+        grid-template-areas:
+            "name name"
+            'email email'
+            "subject subject"
+            "message message"
+            "submit submit";
+    }
+}
