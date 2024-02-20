@@ -64,7 +64,7 @@ ul {
 /* main hedding .mmain heading . main heading . main heading . main heading*/
 
 .main-img {
-    background-image: url(/Images/welcome-banner.jpg);
+    background-image: url(Images/welcome-banner.jpg);
     height: 570px;
     width: 100%;
     background-size: cover;
@@ -160,12 +160,9 @@ hr {
 .about-box1 {
     height: 504px;
     width: 450px;
-
-}
-
-.about-box1:active {
     animation: slide-in-left 0.7s cubic-bezier(0.250, 0.460, 0.450, 0.940) 0s both;
 }
+
 
 .dark-grey {
     color: #43485c;
@@ -203,7 +200,7 @@ hr {
 .card-pic {
     height: 80%;
     width: 100%;
-    background-image: url(/Images/profile_image.jpg);
+    background-image: url(Images/profile_image.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -506,7 +503,7 @@ hr {
 }
 
 .pf-box1 {
-    background-image: url(/Images/tran-mau-tri-tam-g-pKprPg5yw-unsplash.jpg);
+    background-image: url(Images/tran-mau-tri-tam-g-pKprPg5yw-unsplash.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -514,7 +511,7 @@ hr {
 }
 
 .pf-box2 {
-    background-image: url(/Images/daniel-korpai-n0mabeJj6_s-unsplash.jpg);
+    background-image: url(Images/daniel-korpai-n0mabeJj6_s-unsplash.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -522,7 +519,7 @@ hr {
 }
 
 .pf-box3 {
-    background-image: url(/Images/ben-kolde-bs2Ba7t69mM-unsplash.jpg);
+    background-image: url(Images/ben-kolde-bs2Ba7t69mM-unsplash.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -530,7 +527,7 @@ hr {
 }
 
 .pf-box4 {
-    background-image: url(/Images/markus-spiske-1LLh8k2_YFk-unsplash.jpg);
+    background-image: url(Images/markus-spiske-1LLh8k2_YFk-unsplash.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -538,7 +535,7 @@ hr {
 }
 
 .pf-box5 {
-    background-image: url(/Images/max-duzij-qAjJk-un3BI-unsplash.jpg);
+    background-image: url(Images/max-duzij-qAjJk-un3BI-unsplash.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
